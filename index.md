@@ -80,7 +80,7 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 * * *
 
-##### `TEAM#01: Suning`
+#### `TEAM#01: Suning`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 | Usuario      | head two          | three |
@@ -91,7 +91,7 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 | Xyp9x        | good `zoute` drop | yumm  |
 | Faker        | good `zoute` drop | yumm  |
 
-##### `TEAM#02: G2 Esports`
+#### `TEAM#02: G2 Esports`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
