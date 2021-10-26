@@ -103,5 +103,5 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 
 ```
-Comentario final: Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas.¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo de como el administrador realiza el evento, estas en tu derecho de no participar.
+Comentario final: Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas. ¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo con la misma, estas en tu derecho de no participar.
 ```
