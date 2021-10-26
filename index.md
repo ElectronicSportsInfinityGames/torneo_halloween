@@ -2,19 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Página de Facebook](https://www.facebook.com/ElectronicSportsInfinityGames).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Información del Torneo
 
 El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en instalaciones de "E-Sport Infinity Games" ubicada en la calle J. Prudencio Bustillos 122 Sucre, Bolivia. La hora de inicio de partidas será a las 09:00 del día 30 de octubre del 2021. (Todos los capitanes de cada equipo deben estar treinta minutos antes del horario para el correspondiente sorteo de partidas y para pruebas de conexión).
 
-## 
 
 ### Modalidad del Torneo
 
@@ -76,13 +67,13 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 >
 > ❖ Si tienen alguna interrogante o queja relacionda con el torneo, debera realizarla a su respectivo capitán de equipo y este al administracion de "E-Sport Infinity Games" [WhatsApp](https://api.whatsapp.com/send?phone=59171055817&fbclid=IwAR0J0xFZZbgT1R35erd69d58AWKPLp_crR8ULQzBnkQcl-FRbF_62AAvtLM).
 > 
-## 
+
 
 ### Equipos REGISTRADOS
 
 * * *
 
-###### TEAM#01: Suning
+##### `TEAM#01: Suning`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 | head1        | head two          | three |
@@ -93,11 +84,11 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 | ok           | good `zoute` drop | yumm  |
 
 
-###### TEAM#02: G2 Esports
+##### `TEAM#02: G2 Esports`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
-| head1        | head two          | three |
+| **head1**        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
@@ -112,9 +103,5 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 
 ```
-Comentario final.
-```
-
-```
-Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas.¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo de como el administrador realiza el evento, estas en tu derecho de no participar.
+Comentario final: Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas.¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo de como el administrador realiza el evento, estas en tu derecho de no participar.
 ```
