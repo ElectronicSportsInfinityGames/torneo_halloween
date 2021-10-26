@@ -68,6 +68,13 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 > ❖ Si tienen alguna interrogante o queja relacionda con el torneo, debera realizarla a su respectivo capitán de equipo y este al administracion de "E-Sport Infinity Games" [WhatsApp](https://api.whatsapp.com/send?phone=59171055817&fbclid=IwAR0J0xFZZbgT1R35erd69d58AWKPLp_crR8ULQzBnkQcl-FRbF_62AAvtLM).
 > 
 
+### Premios
+> ❖ Todos los premios serán entregados al primer y segundo lugar a cargo de la administración de "E-Sport Infinity Games"
+>
+> ❖ Los premios serán entregados finalizado el torneo. Fecha y Horario
+>>    Primer lugar - Monto Económico (70% de lo recaudado)
+>    
+>>    Segundo lugar - Monto Económico (30% de lo recaudado)
 
 ### Equipos REGISTRADOS
 
@@ -76,13 +83,13 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 ##### `TEAM#01: Suning`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-| head1        | head two          | three |
+| Usuario      | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+| devil        | good swedish fish | nice  |
+| hyper        | good and plenty   | nice  |
+| ZywOo        | good `oreos`      | hmm   |
+| Xyp9x        | good `zoute` drop | yumm  |
+| Faker        | good `zoute` drop | yumm  |
 
 ##### `TEAM#02: G2 Esports`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -94,13 +101,12 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
+| ok           | good `zoute` drop | yumm  |
 
 
 ### Torneo de Halloween
 
 ![Branching](https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/247721705_133469059036644_578619263817605514_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=BhFcZJfUKScAX-BeYEF&tn=b7h5rVAnSyZKabcc&_nc_ht=scontent.flpb1-1.fna&oh=78856f904bd0427e208008a1586666ad&oe=619FB9B8)
-
 
 ```
 Comentario final: Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas. ¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo con la misma, estas en tu derecho de no participar.
