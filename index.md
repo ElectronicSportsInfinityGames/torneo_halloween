@@ -81,8 +81,6 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 * * *
 
 #### `TEAM#01: Suning`
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 | Usuario      | head two          | three |
 |:-------------|:------------------|:------|
 | devil        | good swedish fish | nice  |
@@ -102,12 +100,3 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 | ok           | good `zoute` drop | yumm  |
-
-
-### Torneo de Halloween
-
-![Branching](https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/247721705_133469059036644_578619263817605514_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=BhFcZJfUKScAX-BeYEF&tn=b7h5rVAnSyZKabcc&_nc_ht=scontent.flpb1-1.fna&oh=78856f904bd0427e208008a1586666ad&oe=619FB9B8)
-
-```
-Comentario final: Queremos que cada torneo sea una experiencia que todos puedan recordar y disfrutar. Sin embargo, prohibimos muchas actitudes que pueden ser dañinas. ¡IMPORTANTE! Al entrar al Torneo aceptan las reglas y normas del administrador en curso. Si no aceptas o no estás de acuerdo con la misma, estas en tu derecho de no participar.
-```
