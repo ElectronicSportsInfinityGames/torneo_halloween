@@ -72,15 +72,17 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 > ❖ Todos los premios serán entregados al primer y segundo lugar a cargo de la administración de "E-Sport Infinity Games"
 >
 > ❖ Los premios serán entregados finalizado el torneo. Fecha y Horario
->>    Primer lugar - Monto Económico (70% de lo recaudado)
+> >   Primer lugar - Monto Económico (70% de lo recaudado)
 >    
->>    Segundo lugar - Monto Económico (30% de lo recaudado)
+> >   Segundo lugar - Monto Económico (30% de lo recaudado)
 
 ### Equipos REGISTRADOS
 
 * * *
 
 #### `TEAM#01: Suning`
+
+
 | Usuario      | head two          | three |
 |:-------------|:------------------|:------|
 | devil        | good swedish fish | nice  |
@@ -93,7 +95,7 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
-| **head1**        | head two          | three |
+| head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
