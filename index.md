@@ -80,23 +80,24 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 * * *
 
-#### `TEAM#01: TXK Team X-Kill`
+#### TEAM#01: TXK Team X-Kill
+![Octocat](https://github.com/ElectronicSportsInfinityGames/torneo_halloween/blob/master/assets/images/kisspng.png)
 
 
 | NickName     | Riot Games (ID)   | Nombre     |
-|:-------------|:------------------|:---------.-|
+|:-------------|:------------------|:-----------|
 | Nytrix       | 1566863246223355  | Daniel C.  |
 | Hyper        | 1566863246223355  | Julio S.   |
 | Xac          | 1566863246223355  | Rodrigo P. |
 | Xyp9x        | 1566863246223355  | Andreas H. |
 | Faker        | 1566863246223355  | Sergio S.  |
 
-#### `TEAM#02: GNZ Esports`
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+#### TEAM#02: GNZ Esports
+![Octocat](https://github.com/ElectronicSportsInfinityGames/torneo_halloween/blob/master/assets/images/pngegg.png)
 
 
 | NickName     | Riot Games (ID)   | Nombre     |
-|:-------------|:------------------|:---------.-|
+|:-------------|:------------------|:-----------|
 | Nytrix       | 1566863246223355  | Daniel C.  |
 | Hyper        | 1566863246223355  | Julio S.   |
 | Xac          | 1566863246223355  | Rodrigo P. |
