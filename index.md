@@ -80,29 +80,29 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 * * *
 
-#### `TEAM#01: Suning`
+#### `TEAM#01: TXK Team X-Kill`
 
 
-| Usuario      | head two          | three |
-|:-------------|:------------------|:------|
-| devil        | good swedish fish | nice  |
-| hyper        | good and plenty   | nice  |
-| ZywOo        | good `oreos`      | hmm   |
-| Xyp9x        | good `zoute` drop | yumm  |
-| Faker        | good `zoute` drop | yumm  |
+| NickName     | Riot Games (ID)   | Nombre     |
+|:-------------|:------------------|:---------.-|
+| Nytrix       | 1566863246223355  | Daniel C.  |
+| Hyper        | 1566863246223355  | Julio S.   |
+| Xac          | 1566863246223355  | Rodrigo P. |
+| Xyp9x        | 1566863246223355  | Andreas H. |
+| Faker        | 1566863246223355  | Sergio S.  |
 
-#### `TEAM#02: G2 Esports`
+#### `TEAM#02: GNZ Esports`
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-| ok           | good `zoute` drop | yumm  |
+| NickName     | Riot Games (ID)   | Nombre     |
+|:-------------|:------------------|:---------.-|
+| Nytrix       | 1566863246223355  | Daniel C.  |
+| Hyper        | 1566863246223355  | Julio S.   |
+| Xac          | 1566863246223355  | Rodrigo P. |
+| Xyp9x        | 1566863246223355  | Andreas H. |
+| Faker        | 1566863246223355  | Sergio S.  |
 
 
 ### Obten tu `ticket personal` al momento de tu inscripción
-
+![Branching](https://raw.githubusercontent.com/ElectronicSportsInfinityGames/torneo_halloween/master/assets/images/Entradas%20HALLOWEEN_TAMANO_web.png)
