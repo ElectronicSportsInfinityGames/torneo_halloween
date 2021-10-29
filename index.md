@@ -106,4 +106,3 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 ### Obten tu `ticket personal` al momento de tu inscripción
 
-![Branching](https://raw.githubusercontent.com/ElectronicSportsInfinityGames/torneo_halloween/master/assets/images/Entradas%20HALLOWEEN_TAMANO.jpg)
