@@ -80,29 +80,56 @@ El torneo se realizará a cabo los días 30 y 31 de octubre del presente año en
 
 * * *
 
-#### TEAM#01: TXK Team X-Kill
-![Octocat](https://github.com/ElectronicSportsInfinityGames/torneo_halloween/blob/master/assets/images/kisspng.png)
+#### TEAM#01: TXK Team X Kill
 
 
 | NickName     | Riot Games (ID)   | Nombre     |
 |:-------------|:------------------|:-----------|
-| Nytrix       | 1566863246223355  | Daniel C.  |
-| Hyper        | 1566863246223355  | Julio S.   |
-| Xac          | 1566863246223355  | Rodrigo P. |
-| Xyp9x        | 1566863246223355  | Andreas H. |
-| Faker        | 1566863246223355  | Sergio S.  |
+| Xas          | 1566863246223355  | Rodrigo M. |
+| Ariel        | 1566863246223355  | Jorge C.   |
+| ismael       | 1566863246223355  | Ismael S.  |
+| almaoscura   | 1566863246223355  | Julio C.   |
+| israel       | 1566863246223355  | Israel T.  |
+| biushord     | 1566863246223355  | Ariel S.   |
 
-#### TEAM#02: GNZ Esports
-![Octocat](https://github.com/ElectronicSportsInfinityGames/torneo_halloween/blob/master/assets/images/pngegg.png)
+#### TEAM#02: P.G Parces
 
 
 | NickName     | Riot Games (ID)   | Nombre     |
 |:-------------|:------------------|:-----------|
-| Nytrix       | 1566863246223355  | Daniel C.  |
-| Hyper        | 1566863246223355  | Julio S.   |
-| Xac          | 1566863246223355  | Rodrigo P. |
-| Xyp9x        | 1566863246223355  | Andreas H. |
-| Faker        | 1566863246223355  | Sergio S.  |
+| aisuenjeru   | 1566863246223355  | Misael M.  |
+| herbals      | 1566863246223355  | Cristian R.|
+| 99gus99      | 1566863246223355  | Josev R.   |
+| mrsunshine   | 1566863246223355  | Alex A.    |
+| lelounch     | 1566863246223355  | Raphael P. |
+| xmikixx      | 1566863246223355  | Miguel O.  |
+
+
+
+#### TEAM#03: Arena Gaming
+
+
+| NickName     | Riot Games (ID)   | Nombre     |
+|:-------------|:------------------|:-----------|
+| jeche        | 1566863246223355  | Jeheziel T.|
+| gonchi       | 1566863246223355  | Andres G.  |
+| kenay        | 1566863246223355  | Luis F.    |
+| showtek      | 1566863246223355  | Rodrigo R. |
+| kike         | 1566863246223355  | Enrique G  |
+
+
+
+#### TEAM#04: Amongus Gamer
+
+
+| NickName     | Riot Games (ID)   | Nombre     |
+|:-------------|:------------------|:-----------|
+| matiasxd     | 1566863246223355  | Matias E.  |
+| troski       | 1566863246223355  | Orlando V. |
+| Makky        | 1566863246223355  | Arturo V.  |
+| jhony        | 1566863246223355  | Jhoni v.   |
+| tripleb      | 1566863246223355  | Wilber Q.  |
+
 
 
 ### Obten tu `ticket personal` al momento de tu inscripción
